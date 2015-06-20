@@ -1,0 +1,11 @@
+# .gitigore used to igore/unigore the files list below.
+
+tempfile.txt
+.DS_Store
+*.zip
+*.gz
+logs/*.log
+logs/*.log.[0-9]
+assets/photoshop/
+assets/videos/
+!assets/videos/tour_*.mp4
