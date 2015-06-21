@@ -1,6 +1,7 @@
 # .gitigore used to igore/unigore the files list below.
 
 tempfile.txt
+tempfile2.txt
 .DS_Store
 *.zip
 *.gz
